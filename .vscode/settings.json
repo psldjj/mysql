@@ -1,5 +1,5 @@
 {
-  "markdown-image.local.path": "/images",
+  "markdown-image.local.path": "./images",
   "markdown-image.base.altFormat": "图 ${index}",
   "markdown-image.base.fileNameFormat": "${YY}-${MM}-${DD}-${hash}"
 }
